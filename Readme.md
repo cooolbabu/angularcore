@@ -7,7 +7,7 @@ Runtimes
 - Nodejs 8.17
 - Angular 16
 
-Github url: xxxx
+[angular-course](https://github.com/angular-university/angular-course)
 
 ### Lession 1.3
 
